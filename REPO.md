@@ -4,12 +4,12 @@ GitBook documentation for [GenWealth](https://genwealth.app/) — self-custodial
 
 ## Publish with GitBook
 
-1. Create or open a GitBook space.
-2. Connect **Git Sync** to this repository (or import the markdown).
-3. Use [`SUMMARY.md`](SUMMARY.md) as the table of contents.
-4. Point the custom domain to **docs.genwealth.app** when ready (replacing [genwealth-3.gitbook.io](https://genwealth-3.gitbook.io)).
+1. Create or open a GitBook **site** with Git Sync to this repository.
+2. Root [`gitbook-docs.yaml`](gitbook-docs.yaml) defines **one space** (`space-docs`) whose content is the repository root (`./`).
+3. [`SUMMARY.md`](SUMMARY.md) is the single table of contents (whitepaper first, then get started, guides, how it works, team).
+4. Point the custom domain to **docs.genwealth.app**.
 
-The reader-facing home page is [`README.md`](README.md) (Welcome).
+Do not split the book into one space per folder unless you also add a per-folder `SUMMARY.md` and accept separate sidebars — that is what made only “Cardano and wallets” appear before.
 
 ## SEO and LLM files
 

@@ -1,10 +1,26 @@
 # Table of contents
 
+## Whitepaper
+
+* [Cryptocurrencies and self-custody](whitepaper/self-custody.md)
+* [The problem](whitepaper/the-problem.md)
+* [How many bitcoins are lost forever?](whitepaper/lost-bitcoins.md)
+* [The inheritance problem in traditional finance](whitepaper/traditional-inheritance.md)
+* [Challenges of current recovery solutions](whitepaper/current-solutions.md)
+* [Conclusion](whitepaper/conclusion.md)
+* [The solution](whitepaper/the-solution.md)
+* [How it works](whitepaper/how-it-works.md)
+* [Claim process for beneficiaries](whitepaper/claim-process.md)
+* [Personal crypto recovery](whitepaper/personal-recovery.md)
+* [Completed roadmap](whitepaper/completed-roadmap.md)
+* [Future roadmap](whitepaper/future-roadmap.md)
+* [Future developments](whitepaper/future-developments.md)
+* [Services on top of the solution](whitepaper/services.md)
+
+## Get started
+
 * [Welcome](README.md)
 * [Find a guide](find-a-guide.md)
-
-## Cardano and wallets
-
 * [What you need to know about Cardano](cardano/what-you-need-to-know.md)
 * [Create a Cardano wallet](cardano/create-a-wallet.md)
 * [Fund your wallet](cardano/fund-your-wallet.md)
@@ -32,23 +48,6 @@
 * [Inheritance phases](how-it-works/inheritance-phases.md)
 * [Crypto recovery](how-it-works/recovery.md)
 * [What you still control](how-it-works/what-you-control.md)
-
-## Whitepaper
-
-* [Cryptocurrencies and self-custody](whitepaper/self-custody.md)
-* [The problem](whitepaper/the-problem.md)
-* [How many bitcoins are lost forever?](whitepaper/lost-bitcoins.md)
-* [The inheritance problem in traditional finance](whitepaper/traditional-inheritance.md)
-* [Challenges of current recovery solutions](whitepaper/current-solutions.md)
-* [Conclusion](whitepaper/conclusion.md)
-* [The solution](whitepaper/the-solution.md)
-* [How it works](whitepaper/how-it-works.md)
-* [Claim process for beneficiaries](whitepaper/claim-process.md)
-* [Personal crypto recovery](whitepaper/personal-recovery.md)
-* [Completed roadmap](whitepaper/completed-roadmap.md)
-* [Future roadmap](whitepaper/future-roadmap.md)
-* [Future developments](whitepaper/future-developments.md)
-* [Services on top of the solution](whitepaper/services.md)
 
 ## Team and socials
 

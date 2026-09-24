@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://docs.genwealth.app/whitepaper/self-custody</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/the-problem</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/lost-bitcoins</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/traditional-inheritance</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/current-solutions</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/conclusion</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/the-solution</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/how-it-works</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/claim-process</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/personal-recovery</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/completed-roadmap</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/future-roadmap</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/future-developments</loc></url>
+  <url><loc>https://docs.genwealth.app/whitepaper/services</loc></url>
   <url><loc>https://docs.genwealth.app/</loc></url>
   <url><loc>https://docs.genwealth.app/find-a-guide</loc></url>
   <url><loc>https://docs.genwealth.app/cardano/what-you-need-to-know</loc></url>
@@ -23,20 +37,6 @@
   <url><loc>https://docs.genwealth.app/how-it-works/inheritance-phases</loc></url>
   <url><loc>https://docs.genwealth.app/how-it-works/recovery</loc></url>
   <url><loc>https://docs.genwealth.app/how-it-works/what-you-control</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/self-custody</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/the-problem</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/lost-bitcoins</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/traditional-inheritance</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/current-solutions</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/conclusion</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/the-solution</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/how-it-works</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/claim-process</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/personal-recovery</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/completed-roadmap</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/future-roadmap</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/future-developments</loc></url>
-  <url><loc>https://docs.genwealth.app/whitepaper/services</loc></url>
   <url><loc>https://docs.genwealth.app/team/ceo</loc></url>
   <url><loc>https://docs.genwealth.app/team/cto</loc></url>
   <url><loc>https://docs.genwealth.app/team/socials</loc></url>

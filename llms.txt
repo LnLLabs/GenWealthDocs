@@ -6,12 +6,27 @@ Canonical docs: https://docs.genwealth.app
 
 GitBook also serves a full text export at https://docs.genwealth.app/llms-full.txt and Markdown for any page by appending `.md` to its URL (for example https://docs.genwealth.app/guides/claim-inheritance.md).
 
-## Find a guide
+## Whitepaper
 
+- [Cryptocurrencies and self-custody](https://docs.genwealth.app/whitepaper/self-custody): Why self-custody matters and GenWealth’s mission (site landing).
+- [The problem](https://docs.genwealth.app/whitepaper/the-problem)
+- [How many bitcoins are lost forever?](https://docs.genwealth.app/whitepaper/lost-bitcoins)
+- [The inheritance problem in traditional finance](https://docs.genwealth.app/whitepaper/traditional-inheritance)
+- [Challenges of current recovery solutions](https://docs.genwealth.app/whitepaper/current-solutions)
+- [Conclusion](https://docs.genwealth.app/whitepaper/conclusion)
+- [The solution](https://docs.genwealth.app/whitepaper/the-solution)
+- [How it works](https://docs.genwealth.app/whitepaper/how-it-works): Product narrative aligned with the live app.
+- [Claim process for beneficiaries](https://docs.genwealth.app/whitepaper/claim-process)
+- [Personal crypto recovery](https://docs.genwealth.app/whitepaper/personal-recovery)
+- [Completed roadmap](https://docs.genwealth.app/whitepaper/completed-roadmap)
+- [Future roadmap](https://docs.genwealth.app/whitepaper/future-roadmap): Testnet hardening, audit, mainnet.
+- [Future developments](https://docs.genwealth.app/whitepaper/future-developments)
+- [Services on top of the solution](https://docs.genwealth.app/whitepaper/services)
+
+## Get started
+
+- [Welcome](https://docs.genwealth.app/): Documentation home and audience map.
 - [Find a guide](https://docs.genwealth.app/find-a-guide): Index of docs grouped by situation (new to Cardano, setup, claim, recover, executor).
-
-## Cardano and wallets
-
 - [What you need to know about Cardano](https://docs.genwealth.app/cardano/what-you-need-to-know): ADA, wallets, seed phrases, and what GenWealth never asks for.
 - [Create a Cardano wallet](https://docs.genwealth.app/cardano/create-a-wallet): Install Eternl, Lace, Vespr, or NuFi and store the seed phrase offline.
 - [Fund your wallet](https://docs.genwealth.app/cardano/fund-your-wallet): Add ADA for fees; notes on preprod test ADA.
@@ -65,6 +80,5 @@ GitBook also serves a full text export at https://docs.genwealth.app/llms-full.t
 
 ## Optional
 
-- [Welcome](https://docs.genwealth.app/): Documentation home and audience map.
 - [robots.txt](https://docs.genwealth.app/robots.txt): Crawler policy and sitemap pointer.
 - [sitemap.xml](https://docs.genwealth.app/sitemap.xml): Full URL list for search engines.

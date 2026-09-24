@@ -3,33 +3,9 @@ site:
   title: GenWealth
   structure:
     - type: space
-      key: space-cardano
-      title: Cardano and wallets
-      path: cardano
+      key: space-docs
+      title: GenWealth Docs
+      path: docs
       default: true
       content:
-        directory: ./cardano
-    - type: space
-      key: space-guides
-      title: User guides
-      path: guides
-      content:
-        directory: ./guides
-    - type: space
-      key: space-how-it-works
-      title: How GenWealth works
-      path: how-it-works
-      content:
-        directory: ./how-it-works
-    - type: space
-      key: space-whitepaper
-      title: Whitepaper
-      path: whitepaper
-      content:
-        directory: ./whitepaper
-    - type: space
-      key: space-team
-      title: Team and socials
-      path: team
-      content:
-        directory: ./team
+        directory: ./
