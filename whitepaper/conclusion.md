@@ -1,5 +1,6 @@
 ---
 description: Without on-chain recovery and inheritance, long-term self-custodial crypto faces a structural risk GenWealth aims to fix.
+icon: flag
 ---
 
 # Conclusion

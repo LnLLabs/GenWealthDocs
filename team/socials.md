@@ -1,5 +1,6 @@
 ---
 description: Official GenWealth website and social links — website, X, Discord, and Telegram.
+icon: share-alt
 ---
 
 # Socials

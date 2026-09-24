@@ -1,5 +1,6 @@
 ---
 description: Plain-language Cardano basics for GenWealth — ADA, wallets, seed phrases, and what the app never asks for.
+icon: info-circle
 ---
 
 # What you need to know about Cardano

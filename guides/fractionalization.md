@@ -1,5 +1,6 @@
 ---
 description: Split a non-ADA asset into shares in GenWealth, or reunite all shares to restore the original asset.
+icon: pie-chart
 ---
 
 # Fractionalize assets

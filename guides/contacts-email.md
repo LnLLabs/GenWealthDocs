@@ -1,5 +1,6 @@
 ---
 description: Manage local contacts in GenWealth and register email notifications with verification and preference controls.
+icon: envelope
 ---
 
 # Contacts and email notifications

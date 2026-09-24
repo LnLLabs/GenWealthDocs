@@ -1,5 +1,6 @@
 ---
 description: Why traditional wills are slow, costly, and opaque — and how immutable on-chain records can improve inheritance.
+icon: balance-scale
 ---
 
 # The inheritance problem in traditional finance

@@ -1,5 +1,6 @@
 ---
 description: How GenWealth crypto recovery works — inactivity delay, M-of-N co-signers, and assigning a new vault owner wallet.
+icon: key
 ---
 
 # Crypto recovery

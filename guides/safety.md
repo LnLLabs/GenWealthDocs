@@ -1,5 +1,6 @@
 ---
 description: Essential GenWealth safety habits — seed phrases, vault IDs, recovery thresholds, irreversible inheritance, and co-signer ADA.
+icon: shield
 ---
 
 # Stay safe

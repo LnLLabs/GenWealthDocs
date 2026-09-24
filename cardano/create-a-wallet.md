@@ -1,5 +1,6 @@
 ---
 description: Install a Cardano wallet GenWealth can detect, write down your seed phrase safely, and get ready to connect.
+icon: wallet
 ---
 
 # Create a Cardano wallet

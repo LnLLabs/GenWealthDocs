@@ -1,5 +1,6 @@
 ---
 description: GenWealth CEO Rafael Cardoso — background in Web2/Web3 startups, product, and inheritance-related ventures.
+icon: user
 ---
 
 # CEO — Rafael Cardoso

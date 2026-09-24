@@ -1,5 +1,6 @@
 ---
 description: Set up a GenWealth recovery plan with co-signers and inactivity delay, then run Vault Recovery if you lose your main wallet.
+icon: life-ring
 ---
 
 # Create and run a recovery plan

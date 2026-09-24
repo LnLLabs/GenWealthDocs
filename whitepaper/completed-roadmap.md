@@ -1,5 +1,6 @@
 ---
 description: GenWealth completed roadmap — from early inheritance contracts to the modular vault app with wills, recovery, executors, and DeFi.
+icon: check-circle
 ---
 
 # Completed roadmap

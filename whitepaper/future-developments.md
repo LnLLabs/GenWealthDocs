@@ -1,5 +1,6 @@
 ---
 description: Longer-term GenWealth directions — wallet and dApp integrations, Bitcoin DeFi, firm tooling, multi-chain, and privacy exploration.
+icon: rocket
 ---
 
 # Future developments

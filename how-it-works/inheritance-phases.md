@@ -1,5 +1,6 @@
 ---
 description: GenWealth inheritance phases — trigger, executor window, specific-asset claims, share claims, and social claim for leftovers.
+icon: list-ol
 ---
 
 # Inheritance phases

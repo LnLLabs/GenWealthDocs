@@ -1,5 +1,6 @@
 ---
 description: Connect as a beneficiary, find or import a vault, and claim specific assets then your share in GenWealth.
+icon: gift
 ---
 
 # Claim your inheritance

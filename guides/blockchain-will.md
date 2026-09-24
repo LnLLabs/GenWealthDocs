@@ -1,5 +1,6 @@
 ---
 description: Set proof-of-life timing, beneficiaries, shares, specific assets, and optional executors for your GenWealth blockchain will.
+icon: file-text
 ---
 
 # Set up a blockchain will

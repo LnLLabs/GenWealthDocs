@@ -1,5 +1,6 @@
 ---
 description: Keep your GenWealth vault active, update proof of life, and understand the phases after inheritance starts.
+icon: clock
 ---
 
 # Stay active and understand inheritance phases

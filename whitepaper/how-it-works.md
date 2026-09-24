@@ -1,5 +1,6 @@
 ---
 description: How GenWealth vaults, proof of life, beneficiaries, executors, fractionalization, and recovery fit together — updated to the live product.
+icon: cogs
 ---
 
 # How it works

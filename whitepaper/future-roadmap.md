@@ -1,5 +1,6 @@
 ---
 description: GenWealth near-term roadmap — public testnet hardening, security audit, mainnet launch, and validation of supporting services.
+icon: road
 ---
 
 # Future roadmap

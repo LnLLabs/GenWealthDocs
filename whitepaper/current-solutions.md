@@ -1,5 +1,6 @@
 ---
 description: Why common crypto inheritance workarounds — custodians, shared seed phrases, and physical vaults — introduce serious risks.
+icon: list
 ---
 
 # Challenges of current recovery solutions

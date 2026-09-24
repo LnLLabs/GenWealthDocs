@@ -1,5 +1,6 @@
 ---
 description: Optional GenWealth services for less technical beneficiaries — education or assisted claiming with strong accountability commitments.
+icon: briefcase
 ---
 
 # Services on top of the solution

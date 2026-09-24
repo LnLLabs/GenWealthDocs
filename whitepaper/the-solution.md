@@ -1,5 +1,6 @@
 ---
 description: GenWealth’s solution — self-custodial Cardano vaults for inheritance and crypto recovery without intermediaries holding your keys.
+icon: lightbulb
 ---
 
 # The solution

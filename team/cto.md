@@ -1,5 +1,6 @@
 ---
 description: GenWealth CTO Leandros Holleman — Cardano full-stack developer, smart wallets, multisig, and open-source infrastructure.
+icon: user
 ---
 
 # CTO — Leandros Holleman

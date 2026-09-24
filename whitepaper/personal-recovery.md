@@ -1,5 +1,6 @@
 ---
 description: GenWealth personal crypto recovery — inactivity delay plus co-signers to assign a new vault owner if you lose your main wallet.
+icon: refresh
 ---
 
 # Personal crypto recovery

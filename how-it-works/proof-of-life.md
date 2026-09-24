@@ -1,5 +1,6 @@
 ---
 description: How GenWealth proof of life works — inactivity deadlines, last-used updates, and why inheritance can start without a death certificate.
+icon: heartbeat
 ---
 
 # Proof of life

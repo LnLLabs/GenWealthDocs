@@ -1,5 +1,6 @@
 ---
 description: Connect your Cardano wallet to GenWealth, approve prompts safely, and know what beneficiaries and co-signers do.
+icon: plug
 ---
 
 # Use your wallet with GenWealth

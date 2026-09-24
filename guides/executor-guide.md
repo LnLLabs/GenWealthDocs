@@ -1,5 +1,6 @@
 ---
 description: Enter a GenWealth vault as an executor, understand each permission, and know what you still cannot do.
+icon: users
 ---
 
 # Help as an executor

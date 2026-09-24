@@ -1,5 +1,6 @@
 ---
 description: What stays in your control with GenWealth — keys, vault rules, optional emails, and what the app never custodially holds.
+icon: sliders
 ---
 
 # What you still control

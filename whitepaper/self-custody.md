@@ -1,5 +1,6 @@
 ---
 description: Why self-custody matters for cryptocurrency and how GenWealth addresses recovery and inheritance without giving up your keys.
+icon: key
 ---
 
 # Cryptocurrencies and self-custody

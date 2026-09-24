@@ -1,5 +1,6 @@
 ---
 description: Receive, deposit, send, stake, and review history for assets held in your GenWealth vault wallet.
+icon: credit-card
 ---
 
 # Use your vault wallet

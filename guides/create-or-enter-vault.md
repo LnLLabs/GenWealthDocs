@@ -1,5 +1,6 @@
 ---
 description: Connect your wallet, create a GenWealth vault or enter an existing one, and save your vault ID safely offline.
+icon: lock
 ---
 
 # Create or enter a vault

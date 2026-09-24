@@ -1,5 +1,6 @@
 ---
 description: Start a vault owner change in GenWealth, wait the 24-hour delay, then finalize or cancel from Vault Controls.
+icon: user
 ---
 
 # Change the vault owner

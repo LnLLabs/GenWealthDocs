@@ -1,5 +1,6 @@
 ---
 description: How beneficiaries claim on GenWealth — connect, find the vault, then claim specific assets and shares in two stages.
+icon: handshake
 ---
 
 # Claim process for beneficiaries

@@ -1,5 +1,6 @@
 ---
 description: The core problem GenWealth solves — lost seed phrases and crypto that cannot be inherited when only you hold the keys.
+icon: exclamation-triangle
 ---
 
 # The problem

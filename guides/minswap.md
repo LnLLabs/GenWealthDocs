@@ -1,5 +1,6 @@
 ---
 description: Swap tokens or provide liquidity with Minswap from your GenWealth vault on supported Cardano networks.
+icon: exchange
 ---
 
 # Swap and earn with Minswap

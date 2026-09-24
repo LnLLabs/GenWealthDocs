@@ -1,5 +1,6 @@
 ---
 description: Add ADA to your Cardano wallet so you can pay fees and create a GenWealth vault. Includes a note about test ADA on preprod.
+icon: plus-circle
 ---
 
 # Fund your wallet

@@ -1,5 +1,6 @@
 ---
 description: Plain overview of how GenWealth vaults, wills, recovery, and claims work on Cardano without intermediaries holding your keys.
+icon: book-open
 ---
 
 # Overview

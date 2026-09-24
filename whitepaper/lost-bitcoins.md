@@ -1,5 +1,6 @@
 ---
 description: Estimates of permanently lost Bitcoin illustrate why crypto needs on-chain recovery and inheritance mechanisms.
+icon: coins
 ---
 
 # How many bitcoins are lost forever?

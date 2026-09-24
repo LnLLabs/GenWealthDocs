@@ -1,36 +1,86 @@
 ---
 description: GenWealth documentation — learn how to create a Cardano vault, set up a blockchain will, recover crypto, and claim an inheritance.
+icon: home
+layout:
+  width: wide
+  description:
+    visible: true
+  outline:
+    visible: false
 ---
 
 # Welcome
 
 GenWealth is a self-custodial platform on Cardano that helps you keep control of your digital assets, leave them to people you choose, and recover them if you lose access to your wallet.
 
-You connect a Cardano wallet, create a **vault** (a smart wallet you control), and optionally set up:
-
-- A **blockchain will** — who receives what after a period of inactivity (proof of life)
-- A **recovery plan** — how to regain control with trusted co-signers if you lose your main wallet
-- Everyday vault tools — hold, send, stake, fractionalize assets, and use Minswap from the vault
+<a href="find-a-guide.md" class="button primary" data-icon="map">Find a guide</a> <a href="guides/create-or-enter-vault.md" class="button secondary" data-icon="lock">Create a vault</a>
 
 {% hint style="info" %}
 GenWealth never asks for your seed phrase. Your wallet stays in control. The app only asks you to approve actions you choose.
 {% endhint %}
 
-## Who this documentation is for
+## Pick a path
 
-| You are… | Start here |
-| --- | --- |
-| New to Cardano or wallets | [What you need to know about Cardano](cardano/what-you-need-to-know.md) |
-| Setting up GenWealth for the first time | [Create or enter a vault](guides/create-or-enter-vault.md) |
-| Named in someone’s will | [Claim your inheritance](guides/claim-inheritance.md) |
-| Asked to help as an executor | [Help as an executor](guides/executor-guide.md) |
-| Wanting the big picture | [How GenWealth works](how-it-works/overview.md) |
-| Reading the company story | [The solution](whitepaper/the-solution.md) |
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>New to Cardano</strong></td>
+      <td>Wallets, ADA, and seed phrases — only what you need before GenWealth.</td>
+      <td><a href="cardano/what-you-need-to-know.md">What you need to know</a></td>
+    </tr>
+    <tr>
+      <td><strong>Set up GenWealth</strong></td>
+      <td>Connect a wallet, create a vault, and save your vault ID.</td>
+      <td><a href="guides/create-or-enter-vault.md">Create or enter a vault</a></td>
+    </tr>
+    <tr>
+      <td><strong>Named in a will</strong></td>
+      <td>How a beneficiary claims assets the owner left for them.</td>
+      <td><a href="guides/claim-inheritance.md">Claim your inheritance</a></td>
+    </tr>
+    <tr>
+      <td><strong>Helping as an executor</strong></td>
+      <td>What an executor can and cannot do after inheritance starts.</td>
+      <td><a href="guides/executor-guide.md">Help as an executor</a></td>
+    </tr>
+    <tr>
+      <td><strong>How it works</strong></td>
+      <td>Vaults, proof of life, inheritance phases, and recovery.</td>
+      <td><a href="how-it-works/overview.md">Overview</a></td>
+    </tr>
+    <tr>
+      <td><strong>The company story</strong></td>
+      <td>The problem, the solution, and the roadmap.</td>
+      <td><a href="whitepaper/the-solution.md">The solution</a></td>
+    </tr>
+  </tbody>
+</table>
 
-Not sure which page you need? Open **[Find a guide](find-a-guide.md)**.
+## What you can set up
 
-## About this book
+{% columns %}
+{% column %}
+### Blockchain will
 
-Facts in the user guides and “How GenWealth works” match the current GenWealth app and Cardano smart contracts. The whitepaper keeps the original story of the problem and the vision; where the product has moved on, those chapters point you to the guides for the accurate steps.
+Who receives what after a quiet period. You stay in control until proof of life runs out.
 
-Published at [docs.genwealth.app](https://docs.genwealth.app).
+[Set up a blockchain will](guides/blockchain-will.md)
+{% endcolumn %}
+
+{% column %}
+### Recovery plan
+
+Trusted co-signers can help you set a new owner wallet if you lose the one you use today.
+
+[Create a recovery plan](guides/recovery-plan.md)
+{% endcolumn %}
+{% endcolumns %}
+
+Facts in the user guides and “How GenWealth works” match the current GenWealth app. The whitepaper keeps the original story; where the product has moved on, those chapters point you to the guides.
