@@ -1,0 +1,70 @@
+# GenWealth
+
+> Self-custodial Cardano vaults for blockchain wills, crypto recovery, and claiming inheritance — without handing GenWealth your seed phrase.
+
+Canonical docs: https://docs.genwealth.app
+
+GitBook also serves a full text export at https://docs.genwealth.app/llms-full.txt and Markdown for any page by appending `.md` to its URL (for example https://docs.genwealth.app/guides/claim-inheritance.md).
+
+## Find a guide
+
+- [Find a guide](https://docs.genwealth.app/find-a-guide): Index of docs grouped by situation (new to Cardano, setup, claim, recover, executor).
+
+## Cardano and wallets
+
+- [What you need to know about Cardano](https://docs.genwealth.app/cardano/what-you-need-to-know): ADA, wallets, seed phrases, and what GenWealth never asks for.
+- [Create a Cardano wallet](https://docs.genwealth.app/cardano/create-a-wallet): Install Eternl, Lace, Vespr, or NuFi and store the seed phrase offline.
+- [Fund your wallet](https://docs.genwealth.app/cardano/fund-your-wallet): Add ADA for fees; notes on preprod test ADA.
+- [Use your wallet with GenWealth](https://docs.genwealth.app/cardano/use-wallet-with-genwealth): Connect and approve actions safely.
+
+## User guides
+
+- [Create or enter a vault](https://docs.genwealth.app/guides/create-or-enter-vault): Create a vault or import one; save the vault ID offline.
+- [Use your vault wallet](https://docs.genwealth.app/guides/vault-wallet): Receive, deposit, send, stake, history.
+- [Set up a blockchain will](https://docs.genwealth.app/guides/blockchain-will): Proof of life, beneficiaries, shares, executors (max 9 beneficiaries).
+- [Stay active and understand inheritance phases](https://docs.genwealth.app/guides/stay-active): Keep the vault active; phases after inheritance starts.
+- [Claim your inheritance](https://docs.genwealth.app/guides/claim-inheritance): Two-stage claim — specific assets then shares.
+- [Create and run a recovery plan](https://docs.genwealth.app/guides/recovery-plan): Co-signers, inactivity delay, new owner wallet.
+- [Change the vault owner](https://docs.genwealth.app/guides/change-owner): 24-hour delayed owner change.
+- [Fractionalize assets](https://docs.genwealth.app/guides/fractionalization): Split and reunite non-ADA assets.
+- [Swap and earn with Minswap](https://docs.genwealth.app/guides/minswap): Swap and liquidity from the vault.
+- [Contacts and email notifications](https://docs.genwealth.app/guides/contacts-email): Local contacts and email preferences.
+- [Help as an executor](https://docs.genwealth.app/guides/executor-guide): Executor permissions and limits.
+- [Stay safe](https://docs.genwealth.app/guides/safety): Seed phrase, vault ID, recovery threshold, irreversible inheritance.
+
+## How GenWealth works
+
+- [Overview](https://docs.genwealth.app/how-it-works/overview): Vaults, wills, recovery, and claims in plain language.
+- [Proof of life](https://docs.genwealth.app/how-it-works/proof-of-life): Inactivity-based inheritance trigger.
+- [Inheritance phases](https://docs.genwealth.app/how-it-works/inheritance-phases): Trigger, executor window, two claim stages, social claim.
+- [Crypto recovery](https://docs.genwealth.app/how-it-works/recovery): M-of-N co-signers and new owner after delay.
+- [What you still control](https://docs.genwealth.app/how-it-works/what-you-control): Keys, optional helpers, what GenWealth does not custody.
+
+## Whitepaper
+
+- [Cryptocurrencies and self-custody](https://docs.genwealth.app/whitepaper/self-custody)
+- [The problem](https://docs.genwealth.app/whitepaper/the-problem)
+- [How many bitcoins are lost forever?](https://docs.genwealth.app/whitepaper/lost-bitcoins)
+- [The inheritance problem in traditional finance](https://docs.genwealth.app/whitepaper/traditional-inheritance)
+- [Challenges of current recovery solutions](https://docs.genwealth.app/whitepaper/current-solutions)
+- [Conclusion](https://docs.genwealth.app/whitepaper/conclusion)
+- [The solution](https://docs.genwealth.app/whitepaper/the-solution)
+- [How it works](https://docs.genwealth.app/whitepaper/how-it-works): Product narrative aligned with the live app.
+- [Claim process for beneficiaries](https://docs.genwealth.app/whitepaper/claim-process)
+- [Personal crypto recovery](https://docs.genwealth.app/whitepaper/personal-recovery)
+- [Completed roadmap](https://docs.genwealth.app/whitepaper/completed-roadmap)
+- [Future roadmap](https://docs.genwealth.app/whitepaper/future-roadmap): Testnet hardening, audit, mainnet.
+- [Future developments](https://docs.genwealth.app/whitepaper/future-developments)
+- [Services on top of the solution](https://docs.genwealth.app/whitepaper/services)
+
+## Team and socials
+
+- [CEO — Rafael Cardoso](https://docs.genwealth.app/team/ceo)
+- [CTO — Leandros Holleman](https://docs.genwealth.app/team/cto)
+- [Socials](https://docs.genwealth.app/team/socials): Website, X, Discord, Telegram, support email.
+
+## Optional
+
+- [Welcome](https://docs.genwealth.app/): Documentation home and audience map.
+- [robots.txt](https://docs.genwealth.app/robots.txt): Crawler policy and sitemap pointer.
+- [sitemap.xml](https://docs.genwealth.app/sitemap.xml): Full URL list for search engines.
