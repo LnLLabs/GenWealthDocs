@@ -1,0 +1,186 @@
+/* GenWealth docs — tokens from genwealth dark theme */
+
+:root,
+[data-md-color-scheme="slate"] {
+  --md-hue: 210;
+  --md-default-fg-color: #ffffff;
+  --md-default-fg-color--light: #989a9e;
+  --md-default-fg-color--lighter: #7a7d82;
+  --md-default-fg-color--lightest: #53575d;
+  --md-default-bg-color: #343a40;
+  --md-default-bg-color--light: #40464b;
+  --md-default-bg-color--lighter: #484d53;
+  --md-default-bg-color--lightest: #53575d;
+  --md-primary-fg-color: #720876;
+  --md-primary-fg-color--light: #c900ff;
+  --md-primary-fg-color--dark: #8e0f71;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #c900ff;
+  --md-accent-fg-color--transparent: rgba(201, 0, 255, 0.1);
+  --md-typeset-a-color: #c900ff;
+  --md-typeset-color: #989a9e;
+  --md-code-bg-color: #40464b;
+  --md-code-fg-color: #ffffff;
+  --md-footer-bg-color: #40464b;
+  --md-footer-bg-color--dark: #343a40;
+  --md-footer-fg-color: #ffffff;
+  --md-footer-fg-color--light: #989a9e;
+  --md-footer-fg-color--lighter: #7a7d82;
+  --gw-button-gradient: linear-gradient(#cd1c64 42.47%, #8e0f71);
+  --gw-border: #7a7d82;
+  --gw-surface: #40464b;
+  --gw-surface-2: #53575d;
+}
+
+/* Header / primary bar */
+.md-header,
+.md-tabs {
+  background-color: #40464b;
+  border-bottom: 1px solid var(--gw-border);
+}
+
+.md-header__title {
+  font-weight: 600;
+}
+
+/* Sidebar */
+.md-nav--primary .md-nav__title {
+  background-color: #40464b;
+  color: #ffffff;
+}
+
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__item .md-nav__link--active {
+  color: #c900ff;
+}
+
+/* Content typography */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.md-typeset strong {
+  color: #ffffff;
+}
+
+.md-typeset a:hover {
+  color: #cd1c64;
+}
+
+/* Primary buttons (GenWealth gradient) */
+.md-typeset .md-button--primary {
+  background: var(--gw-button-gradient);
+  border: none;
+  color: #ffffff;
+  box-shadow: none;
+}
+
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus {
+  background: linear-gradient(#e02470 42.47%, #a01285);
+  color: #ffffff;
+  border: none;
+}
+
+.md-typeset .md-button:not(.md-button--primary) {
+  background: #53575d;
+  border: 1px solid var(--gw-border);
+  color: #ffffff;
+}
+
+.md-typeset .md-button:not(.md-button--primary):hover {
+  background: #484d53;
+  border-color: #989a9e;
+  color: #ffffff;
+}
+
+/* Cards */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li,
+.md-typeset .grid > .card {
+  background-color: var(--gw-surface);
+  border: 1px solid var(--gw-border);
+  border-radius: 0.4rem;
+  box-shadow: none;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  border-color: #cd1c64;
+}
+
+.md-typeset .grid.cards > ul > li > hr,
+.md-typeset .grid.cards > ol > li > hr {
+  border-color: var(--gw-border);
+}
+
+/* Admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  background-color: var(--gw-surface);
+  border-color: var(--gw-border);
+}
+
+.md-typeset .admonition.info,
+.md-typeset details.info {
+  border-color: #c900ff;
+}
+
+.md-typeset .admonition.info > .admonition-title,
+.md-typeset details.info > summary {
+  background-color: rgba(201, 0, 255, 0.12);
+}
+
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: #cd1c64;
+}
+
+.md-typeset .admonition.warning > .admonition-title,
+.md-typeset details.warning > summary {
+  background-color: rgba(205, 28, 100, 0.15);
+}
+
+/* Search */
+.md-search__form {
+  background-color: #53575d;
+}
+
+.md-search__input {
+  color: #ffffff;
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  background-color: var(--gw-surface);
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #53575d;
+  color: #ffffff;
+  border-color: var(--gw-border);
+}
+
+.md-typeset table:not([class]) td {
+  border-color: var(--gw-border);
+}
+
+/* Code blocks */
+.md-typeset code {
+  background-color: #53575d;
+  color: #ffffff;
+}
+
+.md-typeset pre > code {
+  background-color: #40464b;
+}
+
+/* TOC */
+.md-nav--secondary .md-nav__link--active {
+  color: #c900ff;
+}

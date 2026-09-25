@@ -1,28 +1,29 @@
 # GenWealthDocs
 
-GitBook documentation for [GenWealth](https://genwealth.app/) — self-custodial Cardano vaults for inheritance and crypto recovery.
+MkDocs Material documentation for [GenWealth](https://genwealth.app/) — self-custodial Cardano vaults for inheritance and crypto recovery.
 
-## Publish with GitBook
+## Publish with GitHub Pages
 
-1. Create or open a GitBook **site** with Git Sync to this repository.
-2. Root [`gitbook-docs.yaml`](gitbook-docs.yaml) defines **one space** (`space-docs`) whose content is the repository root (`./`).
-3. [`SUMMARY.md`](SUMMARY.md) is the single table of contents (whitepaper first, then get started, guides, how it works, team).
-4. Point the custom domain to **docs.genwealth.app**.
+1. Markdown under [`docs/`](docs/) is the site content (`docs_dir: docs` in [`mkdocs.yml`](mkdocs.yml)).
+2. Navigation lives in `mkdocs.yml` (`nav`).
+3. Push to `main`. [`.github/workflows/pages.yml`](.github/workflows/pages.yml) builds with MkDocs and deploys `site/`.
+4. In the GitHub repo: **Settings → Pages → Source → GitHub Actions**.
 
-Do not split the book into one space per folder unless you also add a per-folder `SUMMARY.md` and accept separate sidebars — that is what made only “Cardano and wallets” appear before.
+Site URL: [https://lnllabs.github.io/GenWealthDocs/](https://lnllabs.github.io/GenWealthDocs/). A custom domain such as `docs.genwealth.app` can be added later with a `CNAME` in this repo and DNS at the registrar.
 
 ## SEO and LLM files
 
 | File | Purpose |
 | --- | --- |
-| [`robots.txt`](robots.txt) | Allow crawlers; point to the sitemap |
-| [`sitemap.xml`](sitemap.xml) | Canonical URL list for `https://docs.genwealth.app` |
-| [`llms.txt`](llms.txt) | Structured index for language models |
+| [`docs/robots.txt`](docs/robots.txt) | Allow crawlers; point to the sitemap |
+| [`docs/llms.txt`](docs/llms.txt) | Structured index for language models |
 
-Keep these in sync when you add or rename pages. GitBook also generates sitemap / llms exports from the published space; page titles and `description` frontmatter make those exports useful.
+MkDocs emits `sitemap.xml` into `site/` on each build. Keep `robots.txt` and `llms.txt` URLs in sync when pages are added or renamed. Page `description` frontmatter is used for meta tags by Material for MkDocs.
 
 ## Source of truth
 
 User guides and **How GenWealth works** follow the GenWealth UI and Cardano contracts. The whitepaper keeps the company narrative and is corrected where the product has moved on.
+
+Theme colors match the GenWealth app dark palette ([`docs/stylesheets/extra.css`](docs/stylesheets/extra.css)).
 
 Do not commit secrets, private keys, or internal fee schedules meant only for demos.

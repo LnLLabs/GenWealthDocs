@@ -1,0 +1,82 @@
+# GenWealth
+
+> Self-custodial Cardano vaults for blockchain wills, crypto recovery, and claiming inheritance — without handing GenWealth your seed phrase.
+
+Canonical docs: https://lnllabs.github.io/GenWealthDocs/
+
+## Whitepaper
+
+- [Cryptocurrencies and self-custody](https://lnllabs.github.io/GenWealthDocs/whitepaper/self-custody): Why self-custody matters and GenWealth’s mission (site landing).
+- [The problem](https://lnllabs.github.io/GenWealthDocs/whitepaper/the-problem)
+- [How many bitcoins are lost forever?](https://lnllabs.github.io/GenWealthDocs/whitepaper/lost-bitcoins)
+- [The inheritance problem in traditional finance](https://lnllabs.github.io/GenWealthDocs/whitepaper/traditional-inheritance)
+- [Challenges of current recovery solutions](https://lnllabs.github.io/GenWealthDocs/whitepaper/current-solutions)
+- [Conclusion](https://lnllabs.github.io/GenWealthDocs/whitepaper/conclusion)
+- [The solution](https://lnllabs.github.io/GenWealthDocs/whitepaper/the-solution)
+- [How it works](https://lnllabs.github.io/GenWealthDocs/whitepaper/how-it-works): Product narrative aligned with the live app.
+- [Claim process for beneficiaries](https://lnllabs.github.io/GenWealthDocs/whitepaper/claim-process)
+- [Personal crypto recovery](https://lnllabs.github.io/GenWealthDocs/whitepaper/personal-recovery)
+- [Completed roadmap](https://lnllabs.github.io/GenWealthDocs/whitepaper/completed-roadmap)
+- [Future roadmap](https://lnllabs.github.io/GenWealthDocs/whitepaper/future-roadmap): Testnet hardening, audit, mainnet.
+- [Future developments](https://lnllabs.github.io/GenWealthDocs/whitepaper/future-developments)
+- [Services on top of the solution](https://lnllabs.github.io/GenWealthDocs/whitepaper/services)
+
+## Get started
+
+- [Welcome](https://lnllabs.github.io/GenWealthDocs/): Documentation home and audience map.
+- [Find a guide](https://lnllabs.github.io/GenWealthDocs/find-a-guide): Index of docs grouped by situation (new to Cardano, setup, claim, recover, executor).
+- [What you need to know about Cardano](https://lnllabs.github.io/GenWealthDocs/cardano/what-you-need-to-know): ADA, wallets, seed phrases, and what GenWealth never asks for.
+- [Create a Cardano wallet](https://lnllabs.github.io/GenWealthDocs/cardano/create-a-wallet): Install Eternl, Lace, Vespr, or NuFi and store the seed phrase offline.
+- [Fund your wallet](https://lnllabs.github.io/GenWealthDocs/cardano/fund-your-wallet): Add ADA for fees; notes on preprod test ADA.
+- [Use your wallet with GenWealth](https://lnllabs.github.io/GenWealthDocs/cardano/use-wallet-with-genwealth): Connect and approve actions safely.
+
+## User guides
+
+- [Create or enter a vault](https://lnllabs.github.io/GenWealthDocs/guides/create-or-enter-vault): Create a vault or import one; save the vault ID offline.
+- [Use your vault wallet](https://lnllabs.github.io/GenWealthDocs/guides/vault-wallet): Receive, deposit, send, stake, history.
+- [Set up a blockchain will](https://lnllabs.github.io/GenWealthDocs/guides/blockchain-will): Proof of life, beneficiaries, shares, executors (max 9 beneficiaries).
+- [Stay active and understand inheritance phases](https://lnllabs.github.io/GenWealthDocs/guides/stay-active): Keep the vault active; phases after inheritance starts.
+- [Claim your inheritance](https://lnllabs.github.io/GenWealthDocs/guides/claim-inheritance): Two-stage claim — specific assets then shares.
+- [Create and run a recovery plan](https://lnllabs.github.io/GenWealthDocs/guides/recovery-plan): Co-signers, inactivity delay, new owner wallet.
+- [Change the vault owner](https://lnllabs.github.io/GenWealthDocs/guides/change-owner): 24-hour delayed owner change.
+- [Fractionalize assets](https://lnllabs.github.io/GenWealthDocs/guides/fractionalization): Split and reunite non-ADA assets.
+- [Swap and earn with Minswap](https://lnllabs.github.io/GenWealthDocs/guides/minswap): Swap and liquidity from the vault.
+- [Contacts and email notifications](https://lnllabs.github.io/GenWealthDocs/guides/contacts-email): Local contacts and email preferences.
+- [Help as an executor](https://lnllabs.github.io/GenWealthDocs/guides/executor-guide): Executor permissions and limits.
+- [Stay safe](https://lnllabs.github.io/GenWealthDocs/guides/safety): Seed phrase, vault ID, recovery threshold, irreversible inheritance.
+
+## How GenWealth works
+
+- [Overview](https://lnllabs.github.io/GenWealthDocs/how-it-works/overview): Vaults, wills, recovery, and claims in plain language.
+- [Proof of life](https://lnllabs.github.io/GenWealthDocs/how-it-works/proof-of-life): Inactivity-based inheritance trigger.
+- [Inheritance phases](https://lnllabs.github.io/GenWealthDocs/how-it-works/inheritance-phases): Trigger, executor window, two claim stages, social claim.
+- [Crypto recovery](https://lnllabs.github.io/GenWealthDocs/how-it-works/recovery): M-of-N co-signers and new owner after delay.
+- [What you still control](https://lnllabs.github.io/GenWealthDocs/how-it-works/what-you-control): Keys, optional helpers, what GenWealth does not custody.
+
+## Whitepaper
+
+- [Cryptocurrencies and self-custody](https://lnllabs.github.io/GenWealthDocs/whitepaper/self-custody)
+- [The problem](https://lnllabs.github.io/GenWealthDocs/whitepaper/the-problem)
+- [How many bitcoins are lost forever?](https://lnllabs.github.io/GenWealthDocs/whitepaper/lost-bitcoins)
+- [The inheritance problem in traditional finance](https://lnllabs.github.io/GenWealthDocs/whitepaper/traditional-inheritance)
+- [Challenges of current recovery solutions](https://lnllabs.github.io/GenWealthDocs/whitepaper/current-solutions)
+- [Conclusion](https://lnllabs.github.io/GenWealthDocs/whitepaper/conclusion)
+- [The solution](https://lnllabs.github.io/GenWealthDocs/whitepaper/the-solution)
+- [How it works](https://lnllabs.github.io/GenWealthDocs/whitepaper/how-it-works): Product narrative aligned with the live app.
+- [Claim process for beneficiaries](https://lnllabs.github.io/GenWealthDocs/whitepaper/claim-process)
+- [Personal crypto recovery](https://lnllabs.github.io/GenWealthDocs/whitepaper/personal-recovery)
+- [Completed roadmap](https://lnllabs.github.io/GenWealthDocs/whitepaper/completed-roadmap)
+- [Future roadmap](https://lnllabs.github.io/GenWealthDocs/whitepaper/future-roadmap): Testnet hardening, audit, mainnet.
+- [Future developments](https://lnllabs.github.io/GenWealthDocs/whitepaper/future-developments)
+- [Services on top of the solution](https://lnllabs.github.io/GenWealthDocs/whitepaper/services)
+
+## Team and socials
+
+- [CEO — Rafael Cardoso](https://lnllabs.github.io/GenWealthDocs/team/ceo)
+- [CTO — Leandros Holleman](https://lnllabs.github.io/GenWealthDocs/team/cto)
+- [Socials](https://lnllabs.github.io/GenWealthDocs/team/socials): Website, X, Discord, Telegram, support email.
+
+## Optional
+
+- [robots.txt](https://lnllabs.github.io/GenWealthDocs/robots.txt): Crawler policy and sitemap pointer.
+- [sitemap.xml](https://lnllabs.github.io/GenWealthDocs/sitemap.xml): Full URL list for search engines.

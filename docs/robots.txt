@@ -1,0 +1,27 @@
+# As a crawler of the GenWealth documentation at https://lnllabs.github.io/GenWealthDocs/
+User-agent: *
+Allow: /
+
+# Common AI / LLM crawlers — documentation is public and intended to be indexed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://lnllabs.github.io/GenWealthDocs/sitemap.xml
