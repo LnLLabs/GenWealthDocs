@@ -1,5 +1,5 @@
 ---
-description: How GenWealth crypto recovery works — inactivity delay, M-of-N co-signers, and assigning a new vault owner wallet.
+description: How GenWealth crypto recovery works — inactivity delay, co-signers, and assigning a new vault owner wallet.
 ---
 
 # Crypto recovery
@@ -9,15 +9,17 @@ Recovery is separate from inheritance. It answers: “I lost my main wallet, but
 ## What you set in advance
 
 - Up to **five** recovery addresses (co-signers)
-- How many of them must sign (**M** of those addresses)
 - An inactivity **delay** (usually shorter than proof of life)
+
+!!! note
+    You can list several co-signers, but today the UX requires **only one** signature for recovery. Any listed address can complete the flow alone.
 
 ## What happens at recovery time
 
 1. The vault has been unused at least as long as the recovery delay.
 2. You (or helpers) open **Vault Recovery**.
 3. You enter the **new owner** wallet address.
-4. Enough co-signers sign.
+4. One co-signer from the plan signs.
 5. Control moves to the new owner wallet. The recovery step itself is about restoring control, not emptying the vault to random addresses.
 
 !!! info

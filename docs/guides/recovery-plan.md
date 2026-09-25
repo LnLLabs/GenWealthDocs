@@ -20,7 +20,7 @@ Open **Crypto Recovery** in the sidebar.
 
 2. **Add recovery addresses**
 
-    Add up to **five** wallet addresses that may co-sign recovery. These can be other wallets you control and/or people you trust.
+    Add up to **five** wallet addresses that may co-sign recovery. These can be other wallets you control and/or people you trust. Today the app requires **only one** of them to sign — any listed address can complete recovery alone.
 
 3. **Set the time period for recovery**
 
@@ -34,7 +34,7 @@ Open **Crypto Recovery** in the sidebar.
 You can delete a plan later with **Delete recovery plan** if you no longer want one.
 
 !!! warning
-    Do not set the required number of co-signers too low. If only one signature is enough, that single person could help take control alone. Prefer several of your own wallets plus trusted people, with a threshold above one.
+    Today only **one** co-signer signature is required for recovery, even if you listed several addresses. Treat every recovery address as able to help take control alone. Prefer wallets you also control, and only add people you fully trust.
 
 
 ## Run recovery
@@ -49,17 +49,17 @@ Use this only when you need a new owner wallet and the inactivity delay has pass
 
     Type the Cardano address that should control the vault going forward.
 
-3. **Select enough co-signers**
+3. **Select a co-signer**
 
-    Tick at least as many recovery addresses as your plan requires (often all of them, or the M-of-N number you set).
+    Tick one recovery address from your plan (only one signature is required today).
 
-4. **Start recovery and collect signatures**
+4. **Start recovery and collect the signature**
 
-    Choose **Start Recovery**. Each selected co-signer connects the matching wallet and signs. Co-signer wallets need a little ADA (about 10 ADA or more is a practical cushion) to help pay fees.
+    Choose **Start Recovery**. The selected co-signer connects the matching wallet and signs. Co-signer wallets need a little ADA (about 10 ADA or more is a practical cushion) to help pay fees.
 
 5. **Submit and open the vault**
 
-    After signatures are collected, submit and continue to the vault wallet under the new owner.
+    After the signature is collected, submit and continue to the vault wallet under the new owner.
 
 
 !!! info

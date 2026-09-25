@@ -10,7 +10,7 @@ With the app you can set a **Plan B**: if you lose the seed phrase of the wallet
 
 1. **Name recovery wallets in advance**
 
-    Add up to five addresses — other wallets you control, trusted people, or a mix — and set how many must sign.
+    Add up to five addresses — other wallets you control, trusted people, or a mix. Today the app requires **only one** of them to sign for recovery.
 
 2. **Set an inactivity delay**
 
@@ -18,17 +18,17 @@ With the app you can set a **Plan B**: if you lose the seed phrase of the wallet
 
 3. **Recover when needed**
 
-    On **Vault Recovery**, enter the new owner address, collect the required co-signatures after the delay, and submit. Co-signers need a little ADA to help with fees.
+    On **Vault Recovery**, enter the new owner address, collect one co-signature after the delay, and submit. Co-signers need a little ADA to help with fees.
 
 
 !!! info
-    You have full control over wallets, thresholds, and deadlines when you create the plan.
+    You choose the recovery addresses and the inactivity delay when you create the plan. A configurable multi-signature threshold is not available in the UX yet.
 
 
 !!! warning
-    Do not set the signature threshold too low. Requiring a single signature would allow any one designated signer to complete recovery alone. Prefer a higher threshold and clear operational habits. See [Create and run a recovery plan](../guides/recovery-plan.md).
+    Because only one signature is required today, treat every listed recovery address as able to complete recovery alone. Prefer wallets you also control, and only add people you fully trust. See [Create and run a recovery plan](../guides/recovery-plan.md).
 
 
 !!! info
-    Earlier drafts described separate “slow” and “quick” products. The shipped flow combines inactivity with M-of-N co-signers in one recovery plan.
+    Earlier drafts described separate “slow” and “quick” products and an M-of-N threshold. The shipped flow is inactivity delay plus co-signers in one recovery plan, with a single signature required.
 

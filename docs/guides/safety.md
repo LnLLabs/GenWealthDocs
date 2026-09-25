@@ -1,5 +1,5 @@
 ---
-description: Essential GenWealth safety habits — seed phrases, vault IDs, recovery thresholds, irreversible inheritance, and co-signer ADA.
+description: Essential GenWealth safety habits — seed phrases, vault IDs, recovery co-signers, irreversible inheritance, and co-signer ADA.
 ---
 
 # Stay safe
@@ -20,7 +20,7 @@ A few habits protect most GenWealth users.
 
 ## Recovery plan
 
-- Prefer several co-signers and a threshold above one.
+- You can list several recovery addresses, but today **only one signature** is required — any listed co-signer can complete recovery alone. Choose those addresses carefully (prefer wallets you also control).
 - Keep recovery inactivity **shorter** than proof of life.
 - Make sure co-signers keep a little ADA so they can sign when needed.
 
